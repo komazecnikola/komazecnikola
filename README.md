@@ -1,5 +1,30 @@
-Hi 👋 My name is Nikola Komazec
-===============================
+# Hi there! 👋 I'm Nikola Komazec
+
+## About Me
+
+I'm a passionate frontend web developer currently navigating the exciting world of web development as a student at IT Bootcamp. This intense 13-week program is shaping my skills with 192 hours of theory and hands-on practical instruction in frontend web development.
+
+## Skills
+
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks & Libraries:** React, Bootstrap
+- **Design Tools:** Figma
+- **Databases:** Firestore (NoSQL)
+- **No-Code Solutions:** Webflow
+
+## What I'm Working On
+
+Currently, I'm diving deep into the world of frontend development, honing my skills in crafting responsive and user-friendly web applications. My passion for clean and efficient code drives me to explore new technologies and stay up-to-date with the latest industry trends.
+
+## Connect with Me
+
+Feel free to connect with me and explore the exciting journey of web development together. Whether it's discussing coding challenges, exchanging ideas, or collaborating on projects, I'm always open to new opportunities.
+
+- **LinkedIn:** [Nikola Komazec](https://www.linkedin.com/in/nikolakomazec/)
+- **Email:** [your.email@example.com](mailto:nikola.koma@gmail.com)
+
+Let's code and create amazing web experiences! 🚀
+
 
 ### Skills
 
